@@ -70,7 +70,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/case-management-1400x756.png",
+              "src": "@PROJECT_PATH@/assets/images/case-management-1-1400x756.png",
               "link": "",
               "alt": "Form Builder",
               "title": "Form Builder"
