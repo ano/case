@@ -89,7 +89,7 @@
           },
           "title": "Case Submission",
           "text": "Use this system to find and manage judgements related to any violations, prosecutions and settlement cases",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.dropbox.com/s/oh0g4jx5fs4auq2/Install-FFA-Form-System-win32-x64-1.0.0-win32-x64.exe?dl=1\" data-toolbar=\"-mbrBtnMove\">Search</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://licensing.tklapp.com/forms/manage_entries.php?id=94884\" data-toolbar=\"-mbrBtnMove\">Login</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header2-7\" data-toolbar=\"-mbrBtnMove\">Search</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://licensing.tklapp.com/forms/manage_entries.php?id=94884\" data-toolbar=\"-mbrBtnMove\">Login</a>",
           "_tags": [
             "Theme"
           ],
@@ -178,7 +178,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Case Submission System</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Case Submission System</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-q"
         },
@@ -535,7 +535,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Case Submission System</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Case Submission System</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-q"
         }
